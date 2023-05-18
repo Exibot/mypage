@@ -1,0 +1,22 @@
+.image-banner {
+    background-image: url('https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80');
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+}
+
+.image-banner h1 {
+    margin: 0;
+    padding: 20px;
+    background-color: rgba(0,0,0,0.5);
+    font-size: 2rem;
+}
+
+#contacto {
+    background-color: #f8f9fa;
+}
